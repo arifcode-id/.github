@@ -4,7 +4,7 @@
 
 Tech : TALL Stack (Tailwind, Alpine, Laravel, Livewire)
 
-![Lali Pro](https://github.com/arifcode-id/.github/blob/main/img/lali.png?raw=true)
+![Lali](https://github.com/arifcode-id/.github/blob/main/img/lali.png?raw=true)
 [Github](https://github.com/arifbudimanar/lali) [Packagist](https://packagist.org/packages/arifbudimanar/lali) [Demo](http://68.183.184.25/)
 
 ## Lali Pro
@@ -23,15 +23,18 @@ Tech : TALL Stack (Tailwind, Alpine, Laravel, Livewire)
 
 ## ArifCode Theme Original
 
+![Arifcode Original](https://github.com/arifcode-id/.github/blob/main/img/arifcode-original.png?raw=true)
 [Github](https://github.com/arifbudimanar/arifcode-theme)
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme)
 
 ## ArifCode Theme Exclusive
 
+![Arifcode Exclusive](https://github.com/arifcode-id/.github/blob/main/img/arifcode-exclusive.png?raw=true)
 [Github](https://github.com/arifbudimanar/arifcode-theme-exclusive)
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme-exclusive)
 
 ## ArifCode Theme Windows
 
+![Arifcode Windows](https://github.com/arifcode-id/.github/blob/main/img/arifcode-windows.png?raw=true)
 [Github](https://github.com/arifbudimanar/arifcode-theme-windows)
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=arifbudimanar.arifcode-theme-windows)
