@@ -4,14 +4,14 @@
 
 Tech : TALL Stack (Tailwind, Alpine, Laravel, Livewire)
 
-![Lali Pro](../img/lali.png)
+![Lali Pro](https://github.com/arifcode-id/.github/blob/main/img/lali.png?raw=true)
 [Github](https://github.com/arifbudimanar/lali) [Packagist](https://packagist.org/packages/arifbudimanar/lali) [Demo](http://68.183.184.25/)
 
 ## Lali Pro
 
 Tech : TALL Stack (Tailwind, Alpine, Laravel, Livewire)
 
-![Lali Pro](../img/lali-pro.png)
+![Lali Pro](https://github.com/arifcode-id/.github/blob/main/img/lali-pro.png?raw=true)
 [Demo](http://143.198.206.231/)
 
 # VSCode Extension
