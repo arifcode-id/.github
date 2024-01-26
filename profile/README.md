@@ -1,7 +1,3 @@
-# ArifCode ID
-
-Place where I share my private code.
-
 ## Lali
 
 [Github](https://github.com/arifbudimanar/lali)
